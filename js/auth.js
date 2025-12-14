@@ -14,5 +14,5 @@ function login() {
     window.location = "dashboard.html";
   } else {
     alert("Login failed");
-  }
+  } 
 }
